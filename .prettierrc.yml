@@ -1,0 +1,9 @@
+plugins:
+  - prettier-plugin-css-order
+  - prettier-plugin-tailwindcss
+cssDeclarationSorterOrder: smacss
+tailwindFunctions:
+  - clsx
+  - cn
+  - cva
+  - cx
